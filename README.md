@@ -94,7 +94,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=9400D3" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ipadilhax&style=flat-square&color=9400D3" /></p> 
 </div>
 
 <br>
