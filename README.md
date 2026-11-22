@@ -18,6 +18,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07AD23&center=true&width=600&lines=Seja+bem-vindo%28a%29!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Moro+no+Brasil%2C+estado+de+S%C3%A3o+Paulo" alt="Typing SVG" /></a>
 </div>
 
+<div align="center">
+  <samp>
+    <b>
+      Meus contatos:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:ruanpadilha345@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/dev.padilha)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ruanpadilha/)
+  
+</div>
+
 <br>
       
 <br>
@@ -48,46 +63,7 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
   
 </div>
-
 <br>
-<br>
-
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-<br>
-
-##
-
-<br>
-
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:ruanpadilha345@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/dev.padilha)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ruanpadilha/)
-  
-</div>
-
-<br>
-
-</details>
-
-##
-
-<br>
-
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ipadilhax&style=flat-square&color=9400D3" /></p> 
 </div>
